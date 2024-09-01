@@ -1,6 +1,6 @@
 https://github.com/SarthakGagdani/Movie-Ticket-Booking-Website.git
 
-https://github.com/adnanafzal565/movie-ticket-booking-site-php-mysql-mvc.git
+*)https://github.com/adnanafzal565/movie-ticket-booking-site-php-mysql-mvc.git
 
 
 
